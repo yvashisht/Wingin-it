@@ -25,3 +25,11 @@ This means our dimensions for this project will be: 910mmD X 1365 mmW X 253.50mm
 Think of it as a wind tunnel model!
 
 With our size determined the next step was to learn sketch how I would “separate” the 3D model and integrate these pieces later using super glue. The initial sketches can be found here. I am not Adrian Newey… as I’m sure those sketches indicate to you. A clear design decision I made at this juncture was to mimic the 2024 Ferrari front wing. As a proud Shell Employee this was an imperative step to display our Pectin (I like my job plz don’t fire me Shell).
+
+---
+##Final Model Pictures: 
+
+![Front Wing Design](Final Render Pictures/1 - Front Right Top Down.png)
+![Front Wing Design](Final Render Pictures/2 - Front Left Top Down.png)
+![Front Wing Design](Final Render Pictures/3 - Front View.png)
+![Front Wing Design](Final Render Pictures/4 - Back View.png)
