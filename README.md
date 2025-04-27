@@ -27,7 +27,7 @@ Think of it as a wind tunnel model!
 With our size determined the next step was to learn sketch how I would “separate” the 3D model and integrate these pieces later using super glue. The initial sketches can be found here. I am not Adrian Newey… as I’m sure those sketches indicate to you. A clear design decision I made at this juncture was to mimic the 2024 Ferrari front wing. As a proud Shell Employee this was an imperative step to display our Pectin (I like my job plz don’t fire me Shell).
 
 ---
-##Final Model Pictures: 
+## Final Model Pictures: 
 
 ![Front Wing Design](Final_Render_Pictures/1-Front_Right_Top_Down.png)
 ![Front Wing Design](Final_Render_Pictures/2-Front_Left_Top_Down.png)
