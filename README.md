@@ -29,7 +29,8 @@ With our size determined the next step was to learn sketch how I would “separa
 ---
 ##Final Model Pictures: 
 
-![Front Wing Design](Final Render Pictures/1 - Front Right Top Down.png)
-![Front Wing Design](Final Render Pictures/2 - Front Left Top Down.png)
-![Front Wing Design](Final Render Pictures/3 - Front View.png)
-![Front Wing Design](Final Render Pictures/4 - Back View.png)
+![Front Wing Design](Final_Render_Pictures/1_Front_Right_Top_Down.png)
+![Front Wing Design](Final_Render_Pictures/2_Front_Left_Top_Down.png)
+![Front Wing Design](Final_Render_Pictures/3_Front_View.png)
+![Front Wing Design](Final_Render_Pictures/4_Back_View.png)
+
