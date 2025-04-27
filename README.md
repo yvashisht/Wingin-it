@@ -27,10 +27,20 @@ Think of it as a wind tunnel model!
 With our size determined the next step was to learn sketch how I would “separate” the 3D model and integrate these pieces later using super glue. The initial sketches can be found here. I am not Adrian Newey… as I’m sure those sketches indicate to you. A clear design decision I made at this juncture was to mimic the 2024 Ferrari front wing. As a proud Shell Employee this was an imperative step to display our Pectin (I like my job plz don’t fire me Shell).
 
 ---
+## Red Bull Model Insipiration Pictures: 
+
+![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Front.png)
+![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Back.png)
+![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Right.png)
+![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Left.png)
+
+---
 ## Final Model Pictures: 
 
 ![Front Wing Design](Final_Render_Pictures/1-Front_Right_Top_Down.png)
 ![Front Wing Design](Final_Render_Pictures/2-Front_Left_Top_Down.png)
 ![Front Wing Design](Final_Render_Pictures/3-Front_View.png)
 ![Front Wing Design](Final_Render_Pictures/4-Back_View.png)
+
+---
 
