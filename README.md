@@ -29,10 +29,10 @@ With our size determined the next step was to learn sketch how I would “separa
 ---
 ## Red Bull Model Insipiration Pictures: 
 
-![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Front.png)
-![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Back.png)
-![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Right.png)
-![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Left.png)
+![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Front.jpg)
+![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Back.jpg)
+![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Right.jpg)
+![Red Bull Wing](Model_Front_Wing_Pictures/Red_Bull_Wing/Left.jpg)
 
 ---
 ## Final Model Pictures: 
